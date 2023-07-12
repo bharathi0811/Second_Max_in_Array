@@ -1,4 +1,4 @@
-array=list(map(int,input().split()))
+array=list(map(int,input("Enter the array Elements:").split()))
 class SecondMaxCount:
     @staticmethod
     def second_largest(arr):
